@@ -10,25 +10,23 @@
 
 ![Logo](assets/img/logo.jpg)
 
----?image=assets/img/img1.jpeg
+---
 
 ### @color[blue](What we do)
 
 @ol
-@color[green](
+
 - We meet Every week to code
 - Tutorial sessions with parallel varying Topics on software Development, web development, machine learning.
 - We organise hackathons
 - National Hacklabs with participants from Pyclub KNUST, PyClub UCC and all PyClubs from various institutions.
-)
+
 @olend
 
 ---
 #### Images from our recent tutorial session
 
-![Logo](assets/img/img2.jpeg)
-![Logo](assets/img/img3.jpeg)
-![Logo](assets/img/img4.jpeg)
+![Logo](assets/img/img1.jpeg)
 
 
 ---
