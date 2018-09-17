@@ -10,8 +10,9 @@
 
 ![Logo](assets/img/logo.jpg)
 
----
-### @color[green](What we do)
+---?image=assets/img/img1.jpg
+
+### @color[blue](What we do)
 
 @ol
 
@@ -25,7 +26,6 @@
 ---
 #### Images from our recent tutorial session
 
-![Logo](assets/img/img1.jpeg)
 ![Logo](assets/img/img2.jpeg)
 ![Logo](assets/img/img3.jpeg)
 ![Logo](assets/img/img4.jpeg)
@@ -47,10 +47,10 @@
 
 ---
 
-##### Connect with Us:
-- twitter: @pyclubug
-- github: @pyclubug
---
+- Connect with Us:
+    - twitter: @pyclubug
+    - github: @pyclubug
+
 - Send Us an Email:
     - pyclubug@gmail.com
     - pyclubug@pythongana.org
