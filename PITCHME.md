@@ -10,7 +10,7 @@
 
 ![Logo](assets/img/logo.jpg)
 
----?image=assets/img/img1.jpg
+---?image=assets/img/img1.jpeg
 
 ### @color[blue](What we do)
 
@@ -34,7 +34,7 @@
 ---
 
 ### @color[blue](Membership)
-##### @color[yellow](Who can join?)
+##### @color[green](Who can join?)
 @ul
 
 - Anyone
