@@ -16,7 +16,7 @@
 @ol
 
 - We meet Every week to code
-- Tutorial sessions with parallel varyimg Topics on software Development, web development, machine learning.
+- Tutorial sessions with parallel varying Topics on software Development, web development, machine learning.
 - We organise hackathons
 - National Hacklabs with participants from Pyclub KNUST, PyClub UCC and all PyClubs from various institutions.
 
@@ -25,10 +25,10 @@
 ---
 #### Images from our recent tutorial session
 
-![Logo](assets/img/img1.jpg)
-![Logo](assets/img/img2.jpg)
-![Logo](assets/img/img3.jpg)
-![Logo](assets/img/img4.jpg)
+![Logo](assets/img/img1.jpeg)
+![Logo](assets/img/img2.jpeg)
+![Logo](assets/img/img3.jpeg)
+![Logo](assets/img/img4.jpeg)
 
 
 ---
@@ -50,9 +50,9 @@
 ##### Connect with Us:
 - twitter: @pyclubug
 - github: @pyclubug
-
-##### Send Us an Email:
-- pyclubug@gmail.com
-- pyclubug@pythongana.org
+--
+- Send Us an Email:
+    - pyclubug@gmail.com
+    - pyclubug@pythongana.org
 
 ---
