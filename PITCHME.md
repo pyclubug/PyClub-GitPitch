@@ -12,12 +12,14 @@
 
 ---
 
-### Membership
+### @color[blue](Membership)
 ##### Who can join?
 @ul
 
 - Anyone
-- Rich **markdown** list *item*
+- Any Student of UG
+- Interested in Programming and Software Development
+- Interested in Python and related technologies
 - Link [within](https://gitpitch.com) list item
 
 @ulend
