@@ -1,4 +1,4 @@
-# PyClub UG
+# @color[red]P@color[yellow]y@color[green]Club University of Ghana
 
 ---
 
