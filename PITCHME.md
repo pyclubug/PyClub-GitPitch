@@ -15,12 +15,12 @@
 ### @color[blue](What we do)
 
 @ol
-
+@color[green](
 - We meet Every week to code
 - Tutorial sessions with parallel varying Topics on software Development, web development, machine learning.
 - We organise hackathons
 - National Hacklabs with participants from Pyclub KNUST, PyClub UCC and all PyClubs from various institutions.
-
+)
 @olend
 
 ---
@@ -56,3 +56,4 @@
     - pyclubug@pythongana.org
 
 ---
+#Thank you
