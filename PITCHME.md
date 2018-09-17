@@ -1,4 +1,4 @@
-#PyClub UG
+# PyClub UG
 
 ---
 
@@ -7,6 +7,6 @@
 
 #### Who we are
 
-!![Logo](assets/img/logo.jpg)
+![Logo](assets/img/logo.jpg)
 
 ---
