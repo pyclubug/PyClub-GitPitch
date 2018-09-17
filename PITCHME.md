@@ -11,18 +11,48 @@
 ![Logo](assets/img/logo.jpg)
 
 ---
+### @color[green](What we do)
+
+@ol
+
+- We meet Every week to code
+- Tutorial sessions with parallel varyimg Topics on software Development, web development, machine learning.
+- We organise hackathons
+- National Hacklabs with participants from Pyclub KNUST, PyClub UCC and all PyClubs from various institutions.
+
+@olend
+
+---
+#### Images from our recent tutorial session
+
+![Logo](assets/img/img1.jpg)
+![Logo](assets/img/img2.jpg)
+![Logo](assets/img/img3.jpg)
+![Logo](assets/img/img4.jpg)
+
+
+---
 
 ### @color[blue](Membership)
-##### Who can join?
+##### @color[yellow](Who can join?)
 @ul
 
 - Anyone
 - Any Student of UG
 - Interested in Programming and Software Development
 - Interested in Python and related technologies
-- Link [within](https://gitpitch.com) list item
+- [Join us here https://bit.ly/2Dcn8YO](https://bit.ly/2Dcn8YO)
 
 @ulend
 
 ---
 
+##### Connect with Us:
+- twitter: @pyclubug
+- github: @pyclubug
+
+##### Send Us an Email:
+- pyclubug@gmail.com
+- pyclubug@pythongana.org
+
+---
